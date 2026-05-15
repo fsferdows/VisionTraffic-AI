@@ -1,0 +1,11 @@
+{
+  "name": "VisionTraffic AI",
+  "description": "Offline-first edge AI traffic monitoring system that detects vehicles, pedestrians, and license plates locally using TensorFlow.js for maximum privacy and zero latency.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
